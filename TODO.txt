@@ -1,0 +1,30 @@
+_ = pending
+D = done
+WIP = Work In Progress
+N = No/abandoned
+
+
+D limit jump frames
+D fix movement at 'odd' angles
+D collision engine
+D create 'launch star'
+D add randomizer for level selection
+D add moving objects
+D seperate collision checks for x,y,z
+WIP skybox
+WIP gravity?
+WIP create levels
+_ class for Mario?
+_ give mario a shadow
+_ add cloud hider
+_ add menu
+_ create 'sling star'
+_ fix collision when rotated
+_ implement "speed" system
+_ add spin functionality
+_ add spin collision
+_ change spin cooldown to reset when touching ground
+_ add animations
+_ X/C mode camera axis lock?
+
+N change renderer to DAE (Will not work)
